@@ -1,4 +1,4 @@
-IPdemy IPAM is an IP address management tool that effectively monitors IP Address. It's free and always free. It is intended to function as a domain-specific source of truth for network operations.
+IPdemy IPAM is a free and opensource IP address management tool that effectively monitors IP Address. It is intended to function as a domain-specific source of truth for network operations.
 
 IPdemy IPAM runs as a web application atop the Django Python framework with a PostgreSQL database. For a complete list of requirements, see requirements.txt. The code is available on GitHub.
 
